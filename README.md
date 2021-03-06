@@ -1,1 +1,1 @@
-The Jukebox (GitHub)
+#[ModKit Wiki](../../wiki)

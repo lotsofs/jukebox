@@ -12,8 +12,18 @@ MonoBehaviour:
   m_Name: ModConfig
   m_EditorClassIdentifier: 
   id: jukebox
-  title: The Jukebox
-  description: 'The Jukebox 1.12
+  title: The Jukebox (Streamer Friendly)
+  author: 
+  description: 'This is the same as the original, except it doesn''t play the music
+    when you solve the module, making the module streamer friendly, as it won''t get
+    your VODs muted.
+
+
+    Be sure to unsubscribe from the other version, or disable it, or something.
+
+
+
+    The Jukebox 1.12
 
     P-A-R-T-Why? Because if you don''t, we''re going to explode.
 
